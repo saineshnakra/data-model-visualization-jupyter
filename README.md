@@ -48,12 +48,8 @@ Ensure that you have the following installed:
    cd visualization-of-data-models
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. Launch Jupyter notebooks:
+2. Launch Jupyter notebooks:
    ```bash
    jupyter notebook
    ```
@@ -62,7 +58,7 @@ Ensure that you have the following installed:
    jupyter lab
    ```
 
-4. Open and run the notebooks from the browser interface.
+3. Open and run the notebooks from the browser interface.
 
 ## 📊 How to Use the Notebooks
 
