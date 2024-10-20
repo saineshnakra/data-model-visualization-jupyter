@@ -73,15 +73,15 @@ For example, in the **Machine Learning Visualization** notebook, you can experim
 ## 🧩 Example Visualizations
 
 ### Machine Learning Models
-- **Decision Boundary Visualization** for classification models:
-  ![Decision Boundary Example](link-to-image)
+- **Decision Boundary Visualization**
   
-- **Clustering Visualization** (K-means, DBSCAN):
-  ![Clustering Example](link-to-image)
+- **Clustering Visualization** 
 
 ### Echelon Visualization
-- **Hierarchical Echelon Graph** representing multi-level relationships:
-  ![Echelon Example](link-to-image)
+
+### Matrix Visualization
+
+### Gaussian Visualization for d dimensions with videos!
 
 ## 🛡️ License
 
