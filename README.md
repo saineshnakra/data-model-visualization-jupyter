@@ -1,9 +1,3 @@
-Got it! I understand now that your repository includes Jupyter notebooks focusing on visualizing various data models, including machine learning visualizations and echelon visualizations.
-
-Let’s revamp the README based on this clearer understanding of your project.
-
----
-
 # **Visualization of Data Models**
 
 ## 📚 Overview
